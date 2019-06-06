@@ -1,0 +1,64 @@
+/*<!--21561122_최승진-->*/
+.clear {
+clear: both;
+}
+body {
+font-family: 'Noto Sans KR', 'sans-serif';
+margin: auto;
+}
+#wrapper {
+margin: auto;
+padding: 0px;
+padding-top: 0px;
+}     
+h1 {
+font-family: 'Prata', serif;
+font-weight: bold;
+font-size: 30px;
+color : #000000;
+text-decoration: none;
+margin-bottom: auto;
+background: #ffffff;
+color: transparent;
+-webkit-background-clip: text;
+transition: all 0.8s;
+text-align: center;
+}
+h4 {
+font-family: 'Noto Sans KR', sans-serif;
+font-weight: normal;
+font-size: 16px;
+color : #464646;
+text-decoration : none;  
+margin-bottom: 50px;
+text-align: center;
+margin-top: 20px;
+}
+h5 {
+font-family: 'Noto Sans KR', sans-serif;
+font-weight: normal;
+font-size: 15px;
+color : #9a9a9a;
+text-decoration : none;  
+transition: all 0.8s;
+text-align: center;
+margin-top: 10px;
+}
+h5:hover {
+font-family: 'Noto Sans KR', sans-serif;
+font-weight: normal;
+font-size: 15px;
+color : #bebebe;
+text-decoration : none;  
+transition: all 0.8s;
+background: #ffffff;
+color: transparent;
+-webkit-background-clip: text;
+text-align: center;
+}
+#web_img img{
+width: 80%;
+}
+.web{
+text-align: center;
+}
